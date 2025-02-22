@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/lizzysimmons/RiderProjects/Mission6_Simmons/Mission6_Simmons/wwwroot/img/BaconsaleKate.jpg",
+      "PackagePath": "staticwebassets/img/BaconsaleKate.jpg"
+    },
+    {
+      "Id": "/Users/lizzysimmons/RiderProjects/Mission6_Simmons/Mission6_Simmons/wwwroot/img/JoelHiltonHeadshot.jpg",
+      "PackagePath": "staticwebassets/img/JoelHiltonHeadshot.jpg"
+    },
+    {
       "Id": "/Users/lizzysimmons/RiderProjects/Mission6_Simmons/Mission6_Simmons/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },

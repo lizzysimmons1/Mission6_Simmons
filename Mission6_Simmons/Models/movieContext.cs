@@ -8,5 +8,6 @@ public class movieContext : DbContext
     {
     }
     
-    public DbSet<movie> Movie { get; set; }
+    public DbSet<movie> Movies { get; set; }
+    public DbSet<Categories> Categories { get; set; }
 }

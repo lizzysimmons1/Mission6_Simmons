@@ -19,4 +19,15 @@
       </PackageReference>
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="wwwroot\App_Data\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Update="JoelHiltonMovieCollection.sqlite">
+        <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+        <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      </Content>
+    </ItemGroup>
+
 </Project>
